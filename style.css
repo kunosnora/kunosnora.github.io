@@ -1,4 +1,16 @@
+body{
+    margin-bottom: 50px;
+}
 .video{
     width: 560px;
-    margin-top: 50px;
+    margin:auto;
+    margin-top: 30px;
+}
+.carousel-inner{
+    margin:auto;
+    margin-top: 30px;
+}
+img{
+    max-width: 100%;
+    height: auto;
 }
